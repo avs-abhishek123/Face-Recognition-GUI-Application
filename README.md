@@ -49,8 +49,8 @@ List of all the users<br>
 A webcam window will popup and start recognition proccess<br>
 
 
-Made By ❤ : [Peeyush Gaur](https://github.com/GaurPeeyush)<br>
-**Free Software, Hell Yeah!**
+Made By ❤ : [Allena Venkata Sai Abhishek](https://github.com/avs-abhishek123)<br>
+**Free Software!**
 
 
 
